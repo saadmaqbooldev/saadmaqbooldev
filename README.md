@@ -19,10 +19,10 @@
 
 ```typescript
 const saadMaqbool = {
-  title: "Computer Science Student & Aspiring AI Engineer",
+  title: "AI Engineer",
   location: "Lahore, Pakistan",
   university: "University of Lahore (2023 – 2027)",
-  currentlyLearning: ["Python", "Machine Learning", "Deep Learning", "NLP"],
+  currentlyLearning: ["Python", "Machine Learning","LLM", "RAG", "Deep Learning", "NLP"],
   stack: [
     "Python", "JavaScript", "TypeScript",
     "React.js", "Next.js", "FastAPI", "Node.js",
