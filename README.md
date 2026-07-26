@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-AI Engineer and Computer Science student focused on building production-ready, intelligent systems — from machine learning models to full-stack AI applications.
+AI Engineer and Computer Science student, and problem solver at heart, focused on building intelligent, production-ready systems. Skilled in Machine Learning, Deep Learning, and Natural Language Processing, with a growing focus on Generative AI and LLM-powered applications. Passionate about turning complex ideas into practical, real-world solutions — from AI-driven document intelligence tools to full-stack applications built with Python, FastAPI, and modern web technologies. Committed to continuous learning and shipping projects that solve real problems.
 
 | Field | Details |
 |-------|---------|
