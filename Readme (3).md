@@ -21,7 +21,7 @@ AI Engineer and Computer Science student, and problem solver at heart, focused o
 
 | Field | Details |
 |-------|---------|
-| Title | AI Engineer \| Computer Science Student |
+| Title | AI Engineer \| CS Student | PYTHON | LLM | RAG
 | Focus | Machine Learning, Deep Learning, NLP, Generative AI & LLMs |
 | Currently Building | Production-ready AI systems & full-stack applications |
 | Tech Stack | Python, TypeScript, JavaScript, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, AWS, GCP |
