@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=Saad%20Maqbool&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20Python%20%7C%20Machine%20Learning%20%7C%20NLP%20%7C%20FastAPI&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/saadmaqbooldev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning+%26+Deep+Learning;Building+Intelligent+Systems+with+Python+%26+FastAPI;Specializing+in+NLP+%26+LLM+Applications;Turning+Ideas+Into+Production-Ready+AI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+Machine+Learning+%26+Deep+Learning; Building+Intelligent+Systems+with+Python+%26+FastAPI;Specializing+in+NLP+%26+LLM+Applications;Turning+Ideas+Into+Production-Ready+AI+Products" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@ AI Engineer and Computer Science student, and problem solver at heart, focused o
 | Focus | Machine Learning, Deep Learning, NLP, Generative AI & LLMs |
 | Currently Building | Production-ready AI systems & full-stack applications |
 | Tech Stack | Python, TypeScript, JavaScript, FastAPI, Node.js, React, Next.js, MongoDB, PostgreSQL, AWS, GCP |
-| Launched Projects | doc-intelligence, llm-chat-document-api, saadmaqbooldev-portfolio |
+| Launched Projects | doc-intelligence, llm-chat-document-api, Crowd Analytic YOLO, saadmaqbooldev-portfolio |
 | Certifications | AI & Python Engineering — PureLogics |
 | Status | Actively building and shipping AI-powered projects |
 | Open To | AI/ML Collaborations, Freelance Projects, Full-Time Opportunities |
@@ -62,6 +62,16 @@ An LLM-powered API that enables conversational Q&A over documents — combining 
 | Domain    | LLM Applications / RAG      |
 
 [**🔗 View Code**](https://github.com/saadmaqbooldev/llm-chat-document-api)
+
+### 💬 Crowd and Analytic YOLO
+An AI-powered computer vision system for detecting, tracking, and analysing people in video footage. The project combines YOLO26, OpenCV, multi-object tracking, custom spatial zones, and an interactive analytics dashboard to generate real-time crowd and queue insights.
+
+| Layer     | Technology                        |
+|-----------|-----------------------------------|
+| Backend   | Python, YOLO26, OpenCv, Numpy     |
+| Domain    | Computer Vision/ YOLO             |
+
+[**🔗 View Code**](https://github.com/saadmaqbooldev/Crowd-and-Analytic-YOLO)
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=saadmaqbooldev&repo=llm-chat-document-api&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="100%"/>
 
