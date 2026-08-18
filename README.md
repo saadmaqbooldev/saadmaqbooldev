@@ -30,31 +30,41 @@
 
 <br/>
 
-## 👨‍💻 Who I Am
+## 👨‍💻 About Me
 
-```ts
-const saadMaqbool = {
-  title: "AI Engineer in Progress",
-  location: "Lahore, Pakistan 🇵🇰",
-  education: "BS Computer Science @ University of Lahore (2023 - 2027)",
-  background: "Moved to Lahore independently to build a better future — " +
-              "worked 3 years in e-commerce (2022-2024) before transitioning into software & AI",
-  training: "Python & AI Professional Bootcamp @ PureLogics",
-  stack: {
-    languages: ["Python", "JavaScript", "TypeScript"],
-    frontend: ["React.js", "Next.js", "Three.js", "React Native"],
-    backend: ["FastAPI", "Node.js", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL"],
-    cloud: ["AWS", "GCP"],
-    ai_ml: ["scikit-learn", "NLP", "Recommendation Systems", "Collaborative Filtering", "LLM APIs"],
-  },
-  launchedProjects: 7,
-  certifications: "PureLogics Python & AI Bootcamp (in progress)",
-  status: "Actively building portfolio-worthy AI & full-stack projects 🚀",
-  openTo: ["AI Engineering roles", "Freelance AI/full-stack projects", "Collaboration on LLM apps"],
-  longTermGoal: "Founding a software house delivering AI solutions to international clients 🌍",
-};
-```
+Computer Science undergraduate (2023 – 2027) at the **University of Lahore**, currently training as an **AI Engineer** through PureLogics' professional Python & AI bootcamp. I moved to Lahore independently from my village to pursue this path, and spent three years working in e-commerce before transitioning into software development — an experience that shaped how I approach discipline, ownership, and building things that work in the real world.
+
+My focus today is on production-grade AI systems: machine learning, NLP, generative AI / LLM applications, and AI agents, backed by full-stack engineering with FastAPI, React, and Next.js.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Education & Training**
+- BS Computer Science, University of Lahore *(2023 – 2027)*
+- Python & AI Professional Bootcamp, **PureLogics**
+
+**📌 Current Focus**
+- Machine Learning & Deep Learning
+- Natural Language Processing (NLP)
+- Generative AI & LLM Applications
+- AI Agents & Automation
+- Model Deployment & MLOps
+
+</td>
+<td width="50%" valign="top">
+
+**💼 Open To**
+- AI Engineering opportunities
+- Freelance AI / full-stack projects
+- Collaboration on LLM-based applications
+
+**🎯 Long-Term Goal**
+- Founding a software house delivering AI and software solutions to international clients
+
+</td>
+</tr>
+</table>
 
 <br/>
 
