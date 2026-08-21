@@ -41,7 +41,7 @@ My focus today is on production-grade AI systems: machine learning, NLP, generat
 <td width="50%" valign="top">
 
 **🎓 Education & Training**
-- BS Computer Science, University of Lahore *(2023 – 2027)*
+- BS Computer Science, University of Lahore 
 - Python & AI Professional Bootcamp, **PureLogics**
 
 **📌 Current Focus**
@@ -49,6 +49,7 @@ My focus today is on production-grade AI systems: machine learning, NLP, generat
 - Natural Language Processing (NLP)
 - Generative AI & LLM Applications
 - AI Agents & Automation
+- RAG
 - Model Deployment & MLOps
 
 </td>
@@ -82,7 +83,7 @@ FastAPI backend that lets users chat with an LLM and upload PDFs — text is ext
 |---|---|
 | Backend | FastAPI, Uvicorn |
 | AI / LLM | Anthropic API |
-| Docs | pdfplumber, chunking |
+| Docs | pdfplumber, chunking | RAG |
 | Testing | Postman, Swagger UI |
 
 🔗 [Code](https://github.com/saadmaqbooldev/llm-chat-document-api)
