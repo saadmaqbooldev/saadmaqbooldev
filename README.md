@@ -10,7 +10,7 @@
 
 <h3>🚀 Building production-ready AI & full-stack products</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Generative+AI+%2F+LLM+Applications;FastAPI+%2B+React+%2B+Next.js+Full-Stack+Dev;Turning+ideas+into+deployed+AI+products;From+a+village+in+Pakistan+to+AI+Engineering&font=Fira+Code&center=false&width=500&height=90&color=7dd3fc&vCenter=true&size=20&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Python+%7C+Machine+Learning+%7C+Deep+Learning;NLP+%26+Generative+AI+%2F+LLM+Applications;FastAPI+%2B+React+%2B+Next.js+Full-Stack+Dev;Turning+ideas+into+deployed+AI+products;AI+Engineering&font=Fira+Code&center=false&width=500&height=90&color=7dd3fc&vCenter=true&size=20&pause=1200"/>
 
 📍 Lahore, Pakistan &nbsp;|&nbsp; 🎓 BS Computer Science @ University of Lahore &nbsp;|&nbsp; 🧠 Training @ PureLogics
 
