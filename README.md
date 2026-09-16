@@ -34,14 +34,14 @@
 
 Computer Science undergraduate (2023 – 2027) at the **University of Lahore**, currently training as an **AI Engineer** through PureLogics' professional Python & AI bootcamp. I moved to Lahore independently from my village to pursue this path, and spent three years working in e-commerce before transitioning into software development — an experience that shaped how I approach discipline, ownership, and building things that work in the real world.
 
-My focus today is on production-grade AI systems: machine learning, NLP, generative AI / LLM applications, and AI agents, backed by full-stack engineering with FastAPI, React, and Next.js.
+My focus today is on production-grade AI systems: machine learning, NLP, generative AI / LLM applications, and AI agents, backed by full-stack engineering with FastAPI, Node.js, React, and Next.js.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎓 Education & Training**
-- BS Computer Science, University of Lahore 
+- BS Computer Science, University of Lahore
 - Python & AI Professional Bootcamp, **PureLogics**
 
 **📌 Current Focus**
@@ -49,7 +49,7 @@ My focus today is on production-grade AI systems: machine learning, NLP, generat
 - Natural Language Processing (NLP)
 - Generative AI & LLM Applications
 - AI Agents & Automation
-- RAG
+- RAG & Retrieval Systems
 - Model Deployment & MLOps
 
 </td>
@@ -75,6 +75,114 @@ My focus today is on production-grade AI systems: machine learning, NLP, generat
 <tr>
 <td width="50%">
 
+### 🧭 [TripPilot AI](https://github.com/saadmaqbooldev/TripPilot-AI)
+AI-powered, full-stack trip-planning platform (university capstone). Generates a streamed, 10-section itinerary grounded in live Google Maps routing and real-time weather, backed by two custom ML models trained on Pakistani travel data — a RandomForestRegressor for cost forecasting and content-based filtering for hotel matching.
+
+**Layer → Tech**
+| | |
+|---|---|
+| Frontend | React (Vite), Tailwind CSS, Redux Toolkit |
+| Backend | Node.js, Express, BullMQ + Redis |
+| AI / LLM | OpenAI GPT-4.1-mini (streamed via SSE) |
+| ML Service | Python, Flask, scikit-learn |
+| Database | MongoDB, JWT + Email OTP auth |
+
+🔗 [Code](https://github.com/saadmaqbooldev/TripPilot-AI)
+
+<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/TripPilot-AI" width="100%"/>
+
+</td>
+<td width="50%">
+
+### 🏥 [MediAssist Healthcare](https://github.com/saadmaqbooldev/MediAssist-Healthcare)
+Healthcare management backend that gives doctors secure authentication and lays the groundwork for patient and consultation management, with an AI assistant layer running locally through Ollama.
+
+**Layer → Tech**
+| | |
+|---|---|
+| Backend | Python, FastAPI, SQLAlchemy, PostgreSQL |
+| Auth | JWT, bcrypt password hashing |
+| AI | Ollama, Llama 3.1, LangChain |
+| Docs | FastAPI Swagger UI |
+
+🔗 [Code](https://github.com/saadmaqbooldev/MediAssist-Healthcare)
+
+<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/MediAssist-Healthcare" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 [QuickQuiz AI](https://github.com/saadmaqbooldev/QuickQuiz-AI)
+AI summarizer + quiz generator that turns any block of text into a concise summary and a scored multiple-choice quiz — so you can actually check whether you understood what you read.
+
+**Layer → Tech**
+| | |
+|---|---|
+| Backend | FastAPI, Pydantic |
+| AI / LLM | Google Gemini 2.0 |
+| Frontend | Streamlit |
+| Docs | Swagger UI, ReDoc |
+
+🔗 [Code](https://github.com/saadmaqbooldev/QuickQuiz-AI)
+
+<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/QuickQuiz-AI" width="100%"/>
+
+</td>
+<td width="50%">
+
+### 📇 [CRM Project](https://github.com/saadmaqbooldev/CRM-Project-)
+A Customer Relationship Management system for tracking contacts, leads, and deals, built end-to-end in TypeScript.
+
+**Layer → Tech**
+| | |
+|---|---|
+| Language | TypeScript |
+| Domain | CRM / Sales workflow tooling |
+
+🔗 [Code](https://github.com/saadmaqbooldev/CRM-Project-)
+
+<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/CRM-Project-" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<!-- Update this link once Credit Sense is pushed/public — I couldn't find a matching repo on your GitHub yet. -->
+### 💳 Credit Sense
+*Add a one- or two-line description of what it does (e.g. "ML-based credit scoring / risk assessment tool that evaluates applicant data and predicts creditworthiness").*
+
+**Layer → Tech**
+| | |
+|---|---|
+| *(fill in)* | *(fill in)* |
+
+🔗 Code — _add repo link once pushed_
+
+</td>
+<td width="50%">
+
+<!-- Update this link once the Ransomware/Malware Detection repo is pushed/public — I couldn't find a matching repo on your GitHub yet. -->
+### 🛡️ Ransomware & Malware Detection
+*Add a one- or two-line description (e.g. "ML classifier trained on file/behavioral features to flag ransomware and malware samples").*
+
+**Layer → Tech**
+| | |
+|---|---|
+| *(fill in)* | *(fill in)* |
+
+🔗 Code — _add repo link once pushed_
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
 ### 🤖 [LLM Chat & Document Ingestion API](https://github.com/saadmaqbooldev/llm-chat-document-api)
 FastAPI backend that lets users chat with an LLM and upload PDFs — text is extracted with `pdfplumber`, chunked (~500 tokens, 50-token overlap), and stored for retrieval, laying the groundwork for a full RAG pipeline.
 
@@ -83,7 +191,7 @@ FastAPI backend that lets users chat with an LLM and upload PDFs — text is ext
 |---|---|
 | Backend | FastAPI, Uvicorn |
 | AI / LLM | Anthropic API |
-| Docs | pdfplumber, chunking | RAG |
+| Docs | pdfplumber, chunking, RAG |
 | Testing | Postman, Swagger UI |
 
 🔗 [Code](https://github.com/saadmaqbooldev/llm-chat-document-api)
@@ -109,76 +217,9 @@ A Python-powered document intelligence application with a dedicated backend and 
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
-
-### 🎓 [PureLogics Bootcamp — Python & AI](https://github.com/saadmaqbooldev/Purelogics-Bootcamp-Python-AI)
-Daily tasks, exercises, and notebooks from the PureLogics Python & AI professional bootcamp — tracking growth from core Python to applied machine learning.
-
-**Layer → Tech**
-| | |
-|---|---|
-| Language | Python |
-| Format | Jupyter Notebooks |
-| Focus | Python → Machine Learning |
-
-🔗 [Code](https://github.com/saadmaqbooldev/Purelogics-Bootcamp-Python-AI)
-
-<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/Purelogics-Bootcamp-Python-AI" width="100%"/>
-
-</td>
-<td width="50%">
-
-### 🛠️ [Bootcamp](https://github.com/saadmaqbooldev/bootcamp)
-A Python workspace of exercises and mini-projects built while training in Python and AI fundamentals.
-
-**Layer → Tech**
-| | |
-|---|---|
-| Language | Python |
-| Focus | Applied learning exercises |
-
-🔗 [Code](https://github.com/saadmaqbooldev/bootcamp)
-
-<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/bootcamp" width="100%"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 [Ruya Website](https://github.com/saadmaqbooldev/ruya-website)
-A web project built with HTML, showcasing front-end design and structure work.
-
-**Layer → Tech**
-| | |
-|---|---|
-| Frontend | HTML |
-
-🔗 [Code](https://github.com/saadmaqbooldev/ruya-website)
-
-<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/ruya-website" width="100%"/>
-
-</td>
-<td width="50%">
-
-### 💼 [Personal Portfolio](https://github.com/saadmaqbooldev/saadmaqbooldev-portfolio)
-My personal portfolio site showcasing my journey, skills, and projects as an aspiring AI Engineer.
-
-**Layer → Tech**
-| | |
-|---|---|
-| Frontend | HTML |
-
-🔗 [Code](https://github.com/saadmaqbooldev/saadmaqbooldev-portfolio)
-
-<img src="https://opengraph.githubassets.com/1/saadmaqbooldev/saadmaqbooldev-portfolio" width="100%"/>
-
-</td>
-</tr>
 </table>
+
+<sub>🔎 More experiments and coursework live across my [repositories](https://github.com/saadmaqbooldev?tab=repositories), including a YOLO-based crowd/analytics computer-vision project and daily PureLogics bootcamp notebooks.</sub>
 
 <br/>
 
@@ -190,15 +231,15 @@ My personal portfolio site showcasing my journey, skills, and projects as an asp
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,html,css" />
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 
 **Cloud & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,wordpress" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,wordpress" />
 
 **AI & Databases**
 <br/>
