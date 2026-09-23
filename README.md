@@ -40,16 +40,6 @@ I'm an **AI Engineer** in **Lahore, Pakistan**, focused on **Generative AI, RAG 
 Before software, I spent **three years in e-commerce**. That's why I start every project with the business question, not the model: *where is time being wasted, and what do customers actually need?* I moved to Lahore on my own from my village to pursue this work, and I bring the same ownership to every project.
 
 ```python
-class SaadMaqbool:
-    role       = "AI Engineer"
-    focus      = ["Generative AI", "RAG", "MCP servers", "AI agents"]
-    building   = "AI assistants and integrations for small businesses"
-    languages  = ["Python", "TypeScript", "JavaScript"]
-    serves     = ["US", "UK", "EU", "Australia", "Canada"]
-    works_in   = "your time zone for calls"
-
-    def approach(self):
-        return "Understand the workflow → build fast → test on real cases → improve monthly"
 ```
 
 ## 🛠️ What I Build
