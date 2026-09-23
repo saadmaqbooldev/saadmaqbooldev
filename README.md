@@ -39,9 +39,6 @@ I'm an **AI Engineer** in **Lahore, Pakistan**, focused on **Generative AI, RAG 
 
 Before software, I spent **three years in e-commerce**. That's why I start every project with the business question, not the model: *where is time being wasted, and what do customers actually need?* I moved to Lahore on my own from my village to pursue this work, and I bring the same ownership to every project.
 
-```python
-```
-
 ## 🛠️ What I Build
 
 <table>
